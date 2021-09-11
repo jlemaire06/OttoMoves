@@ -7,4 +7,4 @@ pointer on class methods, polymorphism, templates, etc.
 
 Complements :
 - How to command Otto with the voice
-- About Otto distances ensor and buzzer
+- About Otto distance sensor and buzzer
